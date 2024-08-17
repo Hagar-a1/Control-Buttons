@@ -2,9 +2,10 @@
 ## First task
 Greetings, friends!
 This project targets the recording and storage of the robot's movement commands in a database.
-The main webpage includes a user interface with five prominent buttons for controlling the robot's movements. Here is the web page
+The main webpage includes a user interface with five prominent buttons for controlling the robot's movements. Clicking on any of these buttons will trigger a notification confirming that "The button has been added successfully"
 
-![image](https://github.com/user-attachments/assets/7a97dd0c-4b59-45c9-a4e7-0c84f6cf0b4a)
+
+![image](https://github.com/user-attachments/assets/11f1ec92-d337-45a3-ad5b-151cbfc930e1)
 
 And here we see that we have linked the web page to the database
 
